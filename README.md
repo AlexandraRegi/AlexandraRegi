@@ -33,4 +33,6 @@
 
 ---
 
-- :email:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white)](//aleksandra.kavrigina@gmail.com)
+- :email:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white)](//aleksandra.kavrigina@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-AlexandraKG-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlexandraKG)
+
+- https://t.me/AlexandraKG
